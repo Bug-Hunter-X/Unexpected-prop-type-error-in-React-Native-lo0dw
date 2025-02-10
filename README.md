@@ -1,0 +1,1 @@
+This repository demonstrates an example of the unexpected prop type error in React Native and how to solve it.  The error occurs when a component receives a prop of an unexpected type.  The solution involves carefully checking the data types of props passed to components and employing TypeScript or PropTypes for type validation.
